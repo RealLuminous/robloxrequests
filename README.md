@@ -1,4 +1,4 @@
-<h1>Post Request Flooder for Roblox scam website</h1>
+<h1>Post Request Flooder for Roblox scam websites</h1>
 <h3>Requirements</h3>
 
 - <a href=https://www.python.org/downloads/>Python 3.9.2</a> Python Launcher (py)
