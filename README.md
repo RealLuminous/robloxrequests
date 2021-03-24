@@ -3,6 +3,7 @@
 
 - <a href=https://www.python.org/downloads/>Python 3.9.2</a> Python Launcher (py)
 - If you want to run python instead of py, change py src in <a href=https://github.com/RealLuminous/robloxrequests/blob/main/run.bat>run.bat</a> to python src on line 1
+- Python <a href=https://requests.readthedocs.io/en/master/>Requests</a> module
 
 <h3>How to Use</h3>
 
