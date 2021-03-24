@@ -13,3 +13,6 @@
 <h3>Other Info</h3>
 
 - If status code isn't equal to 200, it will be updated to a new link.
+
+<h3>Example</h3>
+<img src=https://pays.host/uploads/1fbf4ee3-93c4-40be-9bc5-190fc26fd0a0/1uzsOOy4.png>
