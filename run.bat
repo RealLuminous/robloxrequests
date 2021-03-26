@@ -1,2 +1,2 @@
-py src
+python src
 pause
